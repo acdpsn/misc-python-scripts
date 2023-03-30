@@ -1,3 +1,17 @@
+# running locally
+
+## create and enter python virtual enviroment
+
+`python -m venv env`
+
+`env/Scripts/activate.bat`
+
+`pip install -r requirements.txt`
+
+## exit virtual env
+
+`deactivate`
+
 # pico pin connections
 
 | label | connection |
