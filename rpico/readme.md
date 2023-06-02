@@ -8,6 +8,10 @@
 
 `pip install -r requirements.txt`
 
+## start simulator
+
+`python sim_code.py`
+
 ## exit virtual env
 
 `deactivate`
